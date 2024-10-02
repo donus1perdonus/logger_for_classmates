@@ -1,0 +1,9 @@
+C:/Users/artio/projectsvscode/prog/2/logger/build/CMakeFiles/LoggerProject.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/CMakeFiles/edit_cache.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/CMakeFiles/rebuild_cache.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/logger/CMakeFiles/logger.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/logger/CMakeFiles/edit_cache.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/logger/CMakeFiles/rebuild_cache.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/client_logger/CMakeFiles/client_logger.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/client_logger/CMakeFiles/edit_cache.dir
+C:/Users/artio/projectsvscode/prog/2/logger/build/client_logger/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/LoggerProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\LoggerProject.dir\\main.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\main.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/main.cpp",
+  "output": "CMakeFiles/LoggerProject.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build/logger",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/logger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\logger.dir\\src\\logger.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\logger\\src\\logger.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/logger/src/logger.cpp",
+  "output": "logger/CMakeFiles/logger.dir/src/logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build/logger",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/logger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\logger.dir\\src\\logger_builder.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\logger\\src\\logger_builder.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/logger/src/logger_builder.cpp",
+  "output": "logger/CMakeFiles/logger.dir/src/logger_builder.cpp.obj"
+},
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build/logger",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/logger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\logger.dir\\src\\logger_guardant.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\logger\\src\\logger_guardant.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/logger/src/logger_guardant.cpp",
+  "output": "logger/CMakeFiles/logger.dir/src/logger_guardant.cpp.obj"
+},
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build/client_logger",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/client_logger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\client_logger.dir\\src\\client_logger_builder.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\client_logger\\src\\client_logger_builder.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/client_logger/src/client_logger_builder.cpp",
+  "output": "client_logger/CMakeFiles/client_logger.dir/src/client_logger_builder.cpp.obj"
+},
+{
+  "directory": "C:/Users/artio/projectsvscode/prog/2/logger/build/client_logger",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/client_logger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\client_logger.dir\\src\\client_logger.cpp.obj -c C:\\Users\\artio\\projectsvscode\\prog\\2\\logger\\client_logger\\src\\client_logger.cpp",
+  "file": "C:/Users/artio/projectsvscode/prog/2/logger/client_logger/src/client_logger.cpp",
+  "output": "client_logger/CMakeFiles/client_logger.dir/src/client_logger.cpp.obj"
+}
+]

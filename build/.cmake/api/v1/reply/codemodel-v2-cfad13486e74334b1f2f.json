@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "logger",
+					"jsonFile" : "directory-logger-Debug-540440305f9964810dc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "logger",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "client_logger",
+					"jsonFile" : "directory-client_logger-Debug-fdefc8d1ab55525787a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "client_logger",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "LoggerProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LoggerProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoggerProject-Debug-4eb4ae36a7fbf0ea5484.json",
+					"name" : "LoggerProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "client_logger::@304d85cc82021621f2c1",
+					"jsonFile" : "target-client_logger-Debug-759f0a93127410cb6f6e.json",
+					"name" : "client_logger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "logger::@d605ba84040dd83ce0d4",
+					"jsonFile" : "target-logger-Debug-4d1c0cdd4fab6baba8ef.json",
+					"name" : "logger",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/artio/projectsvscode/prog/2/logger/build",
+		"source" : "C:/Users/artio/projectsvscode/prog/2/logger"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
